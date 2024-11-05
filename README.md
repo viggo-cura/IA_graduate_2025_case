@@ -31,7 +31,7 @@ The final hand-in should consist of:
 - The final, processed dataset, as a single file in a .csv format (name it *‘firstname_lastname_dataset.csv’*)
 - Your code notebook (name it *‘firstname_lastname_code.py’* or *‘firstname_lastname_code.ipynb’*)
 
-Deadline for hand-in: 23:59 the Xth of November
+Deadline for hand-in: 17:00 the 13th of November
 
 
 ### *Good luck and enjoy! :)*
