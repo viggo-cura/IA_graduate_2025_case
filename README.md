@@ -11,10 +11,10 @@ The transactions.csv file contains transactions the customers have made during a
 
 The demographics.csv file contains data about the subscribing customers. They are uniquely identified by their customer ID.
 
-While data used in school often is in good shape, this is unfortunately not always the case in the industry, so some quality analysis might be 
+While data used in school often is in good shape, this is unfortunately not always the case in the industry, so some data cleaning might be needed before conducting the analysis. 
 
 ## Task
-Combine the datasets into a single file without renaming any of the original columns. Your analysis should focus on customer behavior and its impact on revenue. The code must be written in a Python notebook, ensuring that all steps are well-documented. Any external open source packages are allowed, but need to be clearly listed. Once completed, submit both the code and the combined dataset. The dataset must be submitted as a **.csv** file, and the code must be sent as a **.py** or **.ipynb** file. **Don’t spend more than 2-3 hours on your analysis**.
+Combine the datasets into a single file without renaming any of the original columns. Your analysis should focus on customer behavior and its impact on revenue. The code must be written in Python, with all steps well-documented. Any external open source packages are allowed, but need to be clearly listed. Once completed, submit both the code and the combined dataset. The dataset must be submitted as a **.csv** file, and the code must be sent as a **.py** or **.ipynb** file. **Don’t spend more than 2-3 hours on your analysis**.
 
 ## Approach
 
@@ -31,7 +31,7 @@ The final hand-in should consist of:
 - The final, processed dataset, as a single file in a .csv format (name it *‘firstname_lastname_dataset.csv’*)
 - Your code notebook (name it *‘firstname_lastname_code.py’* or *‘firstname_lastname_code.ipynb’*)
 
-Deadline for hand-in: XX:XX the Xth of XXX
+Deadline for hand-in: 23:59 the Xth of November
 
 
 ### *Good luck and enjoy! :)*
